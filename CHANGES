@@ -1,4 +1,6 @@
- - Replace semicolons with ampersands in URL parameters @svenvg93
+2025-12-27 10:00:00 +0200 Tobias Oetiker <tobi@oetiker.ch>
+
+- Replace semicolons with ampersands in URL parameters @svenvg93
  - fix AnotherCurl.pm to use --help all  @Strykar
  - remove dsa and add ed25519 in ssh keyscan by @StalkR and @lelutin
  - add support for fwmark option in fping 5.2+. Supports 'fwmark' keyword in FPing probe
